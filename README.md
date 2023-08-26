@@ -54,9 +54,10 @@ Follow the prompts to add, retrieve, or list passwords for services.
 - Make sure to keep your master password safe and don't share it.
 - The provided `genMasterPassHash.js` script helps generate the master password hash.
 
-## Contributing
+## Plans for V2
 
-Feel free to contribute by creating issues, suggesting enhancements, or submitting pull requests.
+- Integrate macos finger-print and make master-password redundant
+- File permissions for file storing passwords
 
 ## License
 
